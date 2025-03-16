@@ -1,0 +1,14 @@
+# Archivos compilados
+*.class
+*.jar
+*.exe
+
+# Archivos de IDE
+.idea/
+.vscode/
+*.iml
+
+# Otros
+bin/
+target/
+out/
